@@ -57,6 +57,8 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "MIDDLEOFLINKEDLIST.C": "cpp"
+    "MIDDLEOFLINKEDLIST.C": "cpp",
+    "LOWER_BOUND_OFSORTEDARRAY.C": "cpp",
+    "TOWER_OF_HANOI.C": "cpp"
   }
 }
